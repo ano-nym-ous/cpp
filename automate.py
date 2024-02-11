@@ -1,6 +1,5 @@
 import subprocess
 import os
-import time
 from PIL import Image, ImageFont, ImageDraw
 from docx import Document
 from docx.shared import Inches
